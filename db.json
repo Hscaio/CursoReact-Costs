@@ -1,10 +1,59 @@
 {
-    "projects": [],
-    "categories": [
-        {"id": 1, "name": "Infra"},
-        {"id": 2, "name": "Desenvolvimento"},
-        {"id": 3, "name": "Design"},
-        {"id": 4, "name": "Planejamento"},
-        {"id": 5, "name": "Suporte"}
-    ]
+  "projects": [
+    {
+      "id": "9958",
+      "name": "Desenvolvimento de APP Mobile",
+      "budget": "15000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "serices": []
+    },
+    {
+      "id": "be0e",
+      "name": "Novo projeto mensagem",
+      "budget": "1",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "serices": []
+    },
+    {
+      "id": "feb9",
+      "name": "Novo Projeto 2",
+      "budget": "12",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "serices": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    },
+    {
+      "id": "5",
+      "name": "Suporte"
+    }
+  ]
 }
