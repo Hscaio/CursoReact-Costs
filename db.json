@@ -32,6 +32,17 @@
       },
       "cost": 0,
       "serices": []
+    },
+    {
+      "id": "50d3",
+      "name": "TesteJson",
+      "budget": "1231",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "serices": []
     }
   ],
   "categories": [
