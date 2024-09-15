@@ -1,15 +1,15 @@
 {
   "projects": [
     {
-      "id": "9958",
-      "name": "Desenvolvimento de APP Mobil",
+      "id": "2eff",
+      "name": "Novo projeto",
       "budget": "15000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
       "cost": 0,
-      "serices": []
+      "services": []
     }
   ],
   "categories": [
